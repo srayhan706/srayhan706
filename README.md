@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Shariful Islam Rayhan</h1>
 
 <h3 align="center">
-Computer Science & Engineering Graduate from <br>
+Junior Software Engineer at <br>
 University of Dhaka 🇧🇩
 </h3>
 
