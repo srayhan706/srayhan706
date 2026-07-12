@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Junior Software Engineer at <br>
-University of Dhaka 🇧🇩
+Dynamic Solution Innovators (DSi)
 </h3>
 
 <p align="center">
